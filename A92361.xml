@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A relation of the cruelties and barbarous murthers, and other misdemeanours, done and committed by some foot-souldiers, and others, without command, upon some of the inhabitants of Enfield, Edmonton, Southmyms, and Hadley, in the county of Middlesex, and their servants and cattle.</title>
+         </titleStmt>
+         <extent>Approx. 19KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A92361</idno><idno type="EEBO-CITATION">99866809</idno>
+  <idno type="VID">168660</idno>
+  <idno type="EEBO-PROQUEST">2240960812</idno>
+  
+            <idno type="STC">Wing R819</idno>
+            <idno type="STC">Thomason E993_10</idno>
+            <idno type="STC">ESTC R207778</idno>
+            <idno type="PROQUEST">99866809</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99866809e"/>
+            <note>(EEBO-TCP ; phase 2, no. A92361)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 168660)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 148:E993[10])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A relation of the cruelties and barbarous murthers, and other misdemeanours, done and committed by some foot-souldiers, and others, without command, upon some of the inhabitants of Enfield, Edmonton, Southmyms, and Hadley, in the county of Middlesex, and their servants and cattle.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>printed in the year, 1659.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "July 29".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Murder --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-11 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-11 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:168660:1"/>
+            <p>A RELATION OF THE CRUELTIES AND Barbarous Murthers, AND Other Misdemeanours, done and com<g ref="char:EOLhyphen"/>mitted by some Foot-Souldiers, and others, without Command, upon some of the Inhabitants of <hi>Enfield, Edmon<g ref="char:EOLhyphen"/>ton, Southmyms,</hi> and <hi>Hadley,</hi> in the County of <hi>Middlesex,</hi> and their Ser<g ref="char:EOLhyphen"/>vants and Cattle.</p>
+            <p>
+               <hi>LONDON,</hi> Printed in the Year, 1659.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:168660:2"/>
+            <pb n="3" facs="tcp:168660:2"/>
+            <head>A Relation of the Cruelties and barbarous Murders committed by some Foot-Souldiers and others upon the Inhabitants of <hi>Enfield, Edmonton,</hi> &amp;c.</head>
+            <p>THe severall Inhabitants of the several Parishes of <hi>Enfield, Edmon<g ref="char:EOLhyphen"/>ton, Southmyms,</hi> and <hi>Hadley,</hi> in the County of <hi>Middlesex,</hi> and all those whose Estates they Claym, (amongst divers others) have for above 300 years now past enjoyed, and had Common for all man<g ref="char:EOLhyphen"/>ner of <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ommonable beasts without number, and Common of Estovers, and divers other great priviledges and advantages in <hi>Enfield</hi> Chace, which of late have been endeavoured to be taken from them by severall Com<g ref="char:EOLhyphen"/>missions under the Great Seal of <hi>England,</hi> grounded upon several Orders made by <hi>Oliver</hi> late Lord Protector, and his Councel, which in the year 1656, issued to six Commissioners of his own, impowering any three of them (amongst other things) to survey the said Chace, to hear and determine the Proprietors and Commoners Rights therein, and to allow Satisfaction for them, whereof the Proprietors and Common<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rs in the same Chace were for ever to be debarred, if their Claymes were not made within 30 dayes after publique Notice, and all Officers Military were commanded to Assist the said Commissioners. By colour of which Commission, two of the said Commissioners refusing, the other four did Act; And they put the Proprietors and Commoners to many charge<g ref="char:EOLhyphen"/>able Attendances; and those Military Officers did take away the goods of some of the Proprietors and Commoners, and Inhabitants aforesaid; And did beat and wound them and their servants: And before the work was finished, (to wit) in the year 1656. an Assembly called a Parliament, was called and held, which appointed a Committee concerning the Four Forrests of <hi>Needwood, Kingswood, Ashdowne,</hi> and <hi>Sherwood,</hi> pursuant to an Ordinance of the said Lord Protector made the 30th of <hi>August,</hi> 1654, for the Sale of them, to pay certain publique debts; Which the Prosecutors of the Inclosure of <hi>Enfield</hi> Chace understand<g ref="char:EOLhyphen"/>ing, and that such Ordinances would fail, as were not confirmed by the said Assembly, they by very false and untrue Information, that the said Proprietors, Com<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oners, and Inhabitants, were consenting thereto, procure <hi>Enfield</hi> Chace to be Comprehended in the same pretended Act of Parliament of Confirma<g ref="char:EOLhyphen"/>tions
+<pb n="4" facs="tcp:168660:3"/> with the other Forrests; upon which Act, Instructions were grounded, wherein the same four Persons are named Commissioners on the behalf of the Prosecutors of the same Inclosure; And five other Commissioners were named on the behalf of the Proprieto<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s and Commoners, witho<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t th<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>r knowledg and consent. By the Judgment of which Commissione<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s, allowances were to be made for the Propri<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>to<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s and Commoners Interests. Two of which Comm<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s<g ref="char:EOLhyphen"/>sioners refused to Act, and the other th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ee d<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d forbear to Act, being all or most of them (although named by the other party) convinced in their Judg<g ref="char:EOLhyphen"/>ments, that the Proprietors and Commoners were very much wronged therein; untill they were threatned to be sent for. And under colour of the execution of such power, the Comm<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ssioners on the beh<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>lf of the Prosecutors of the said Inclosure have returned a Survey of the said Chace, containing less by 3000 Acres at least then former Surveyes do make mention of: All which, the Pur<g ref="char:EOLhyphen"/>chasors have into their bargain, without paying any thing for the same: And of the number of Acres returned, they have taken away above half in quantity, and the very best Land in quality, and all the Wood growing thereon, notwith<g ref="char:EOLhyphen"/>standing the Proprietors and Commoners rights, priviledges, and advant<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ges, were by all former Acts of Parliament saved to them therein, and notwithstand<g ref="char:EOLhyphen"/>ing their Clayms made thereunto accordingly: When, in truth, the Proprie<g ref="char:EOLhyphen"/>tors and Commoners ought to have Two parts of the Soyl and Wood in the said Chace, yet have not above one third part of the Soyl of the same Chace, and no Wood at all; And the Prosecutors of the Inclosure of the said Chace have sold the Wood growing in the said Chace at such low rates, that many o<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the buyers thereof have reported, that they have bought so much wood for 15 l. as is worth 100 l. which is a great losse and a deceipt to the Com<g ref="char:EOLhyphen"/>monwealth, and much damage at the present to the Proprietors and Commoners, and in future times an irrecoverable loss. And the Prosecutoas of the same Inclosure have stopped and turned many antient High-wayes not onely leading from one Town and Roade to anothe<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, but from one Market-Town to another. And such as they hare new made, are so straight and narrow, as are and will be impassible in Winter, and very dangerous and prejudicial to the Proprietors and Commone<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s, and passengers who travel those wayes: And the purchasers of the wood have and do daily digg up the Turf and Soyl, and commit much spoyl and waste of such small part of the said Chace as is allotted to the Pro<g ref="char:EOLhyphen"/>prietors and Commoners, which will not maintain the Tenth part of their Cat<g ref="char:EOLhyphen"/>tle as were maintained in the same Chace before the Inclosure thereof: All which contrivances were done by the Surveyor-General of the said Chace, and some or all of the Purchasors the<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eof, being all or most part o<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> them great Officers of the Army, as <hi>John Nelthrope,</hi> Adjutant General, Colonel <hi>Joyce,</hi> Colonel <hi>Eyre,</hi> Lievtenant Colonel <hi>Allen,</hi> Captain <hi>Kempe,</hi> the said Surveyor-General, Mr. <hi>Robotham,</hi> Mr. <hi>Lowry</hi> a Scotchman, and one <hi>Rice</hi> a Button-ma<g ref="char:EOLhyphen"/>ker of <hi>London,</hi> and divers others, who, as it is reported, have bought poor Souldiers Debenters at 1 s 6 d. 2 s. and 2 s. 6. in the pound, and expect al<g ref="char:EOLhyphen"/>lowances for the whole Debenter, and inte<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>est for the same, when the poor Pro<g ref="char:EOLhyphen"/>prietors and Commoners have payed the greater Taxes to the Army for their Land, in rega<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d of their Common belonging to their Lands: And if the said Proprieto<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s Common be taken away, their rents of their Lands will fall at least 10 s. in t<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e Acre, whereby they will be less capable of paying Taxes to the
+<pb n="5" facs="tcp:168660:3"/> Army, and above 200 Families who heretofore have maintained their families, and payed Taxes to the Army, will be forced to take Alms of the said seve<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>all Par<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>shes, and pay nothing at all towards the maintenance of the said Army; And many others will be <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>orc<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d to forsake their several places of hab<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tation in the said several Parishes, in respect of the poverty of the places, by paying Taxes, and maintenance of the poor people, their just Rights being forced from them <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y strong hand: And the said Proprietors and Commoners cannot have copies of the Certificates of the Commissioners and Surveyo<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s p<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oceed<g ref="char:EOLhyphen"/>ings of the Survey of the sa<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d Chace; Al<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hough sought to have the same; but the same are kept by the Surveyor-General: whereas they ought to be kept by the Register. And the said Proprietors and Commone<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s have been grievously oppressed and grieved by the said Purchasors aforesaid, without any colour or ground at all, not onely by keeping away their Common from them, and kill<g ref="char:EOLhyphen"/>ing their Cattle, but also by cutt<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ng, wounding, and killing of some of the said Proprietors, Commoners, and Inhabitants of the said several Parishes, and th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ir Servants, by Foot-Souldiers hired for that purpose by some or all of the afore<g ref="char:EOLhyphen"/>named Purchasors: Wh<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ch was done in this manner, (to wit) about the be<g ref="char:EOLhyphen"/>ginning of Trinity Term last, divers of the Parishes of <hi>Enfield</hi> and <hi>Edmonton</hi> pulling down the Ditches of the said Inclosure, to put in their Cattle into the new Inclosed Grounds to seed, which was lawful for them to do, the pretended Purchasors having no title thereto, the said Captain <hi>Kempe, John Nelthrop,</hi> Lievtenant Colonel <hi>Allen,</hi> one <hi>Randall</hi> a Smith, and <hi>Humphrey Yerbury,</hi> and divers others, with one <hi>Justinian Pagitt,</hi> Justice of Peace, and a Purchasor, and Colonel <hi>Webb,</hi> the said Surveyor-General, or some of them, upon a false Information, sent for Troops of Horse and men from <hi>London,</hi> and entertained them, and gave them Wine and strong Beer, and Money, as is credibly infor<g ref="char:EOLhyphen"/>med, who being fitted for their design, fell upon divers Inhabitants and Pro<g ref="char:EOLhyphen"/>prietors of t<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e said several Parishes, and knocked them down, and cut and slashed with their swords, divers of them and their Servants, and other poor Labouring men coming from their labour at Night, and then complained of the persons beaten and wounded, and imprisoned, who were sent for by a Justice of Peace his Warrant, and some of them were by the said Justices threatned to be sent to the <hi>Barbadoes</hi> to digg for Tobacco, if they, or some, or one of them would not give Evidence against his Neighbours; who for fear of being sent to the Barbadoes, did declare more then they could or would justifie and main<g ref="char:EOLhyphen"/>tain upon Oath. Whereupon some of the Inhabitants of <hi>E<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>fi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ld, Edmonton,</hi> and <hi>Hadley,</hi> were sent for by Warrant, and bound over to the last Sessions at <hi>Hicks</hi>'s-Hall in <hi>St. John</hi>-Street, and there then were Indicted of a Riott, and Evidence was there given against them to the Jury by the said Captain <hi>Kempe,</hi> and <hi>Randall</hi> the Smith, and others, w<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o have made great spoyl and waste in the said Chace. And the Jury at first not finding the Bill, was asked by some of the Justices, Why the Bill was not found against the said parties Indicted? They answered the said Justices, That they h<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d not Evidence sufficient whereby they might find the said Indictment. Whereupon, one Justice <hi>Hobert,</hi> a Trustee, then sitting upon the Bench, told the said Jury, That they must find the said Bill of Indictment, and forced them to go back again, who then found the said Indictment against some of the parties named in the said Indictment, that were not present at the time of the said pretended Riot, nor were they privy there<g ref="char:EOLhyphen"/>unto;
+<pb n="6" facs="tcp:168660:4"/> but some of them only said, They would put their Sheep and Cattle in<g ref="char:EOLhyphen"/>to the said new Inclosure, to try their title with the Purchasors thereof. And the other persons named in the said Indictment, were acquitted by the said Jury. But there was a design by some of the said Justices who were Purcha<g ref="char:EOLhyphen"/>sors and Trustees, and men concerned therein, and Judges in the cause upon the Bench, to find the Bill against those persons, to take off the Courage of the Proprietors and Commoners from their Clayms to their Common, That they m<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ght the better force the Proprietors Common from them in the said Chace. And yet when 3. or 4. several Indictments were preferred to the Jury, and found against <hi>Yerbury</hi> a pretended Souldier at the said Sessions, and several Warrants made against him to apprehend him; (who was taken upon the same by two several Constables) the said <hi>Yerbury</hi> was let go again by them, upon some pretended Colonel's engagement, That he should be forth<g ref="char:EOLhyphen"/>coming to answer at the said Sessions: but he would not appear to the said Indict<g ref="char:EOLhyphen"/>ments, neither can the persons who Indicted him, obtain any Warrant against him. And that at the same Sessions, the said <hi>Kempe, Yerbury,</hi> and one <hi>Law<g ref="char:EOLhyphen"/>rence Hogg</hi> were Indicted for a Riot done in the said Chace, and the Indict<g ref="char:EOLhyphen"/>ment found against them, and a Warrant was made to apprehend them, by Mr. <hi>Powell</hi> and Mr. <hi>Bradshaw,</hi> with their hands to the fame: And the said Justice <hi>Hobert</hi> (a Trustee, and a great Agent and stickler against the said Pro<g ref="char:EOLhyphen"/>prietors, and a great offender in the destruction of the Wood in the said Chace) called to see the Warrant, and had, and did then tear the same in pieces; so that the said parties complaining, can have no remedy against the parties In<g ref="char:EOLhyphen"/>dicted, whereby the Proprieto<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s and Commoners dare not go into the said Chace to seek for their Cattle, for fear the said <hi>Yerbury</hi> and others of his Con<g ref="char:EOLhyphen"/>federates going armed with Swords and Pistols, who have threatned to kill them. And presently after the said Sessions ended, the said <hi>Robotham,</hi> Lieu<g ref="char:EOLhyphen"/>tenant Colonel <hi>Allen,</hi> Captain <hi>Kempe, Yerbury, Lowry,</hi> and others, or some or one of them, with the said other pretended Purchasors, as the rumour is spread in the Country, but especially Lievtenant Colonel <hi>Allen,</hi> hired several Foot-Souldiers, and as some of the said Souldiers have since confessed, to come down, without any Warrant from their Chief Commanders to <hi>Enfield</hi> Chace, who came down, and did shoot and kill divers of the Proprietors and Commoners sheep, and carried some of them to their Quarters, and there dressed them, and eat them, and also did shoot and kill divers Cowes and Horses of the said Com<g ref="char:EOLhyphen"/>moners to a good value with their Muskets charged with Stones and Bullets.</p>
+            <p>And the same Souldiers and their Commander, challenged the Inhabitants of <hi>Enfield</hi> to fight with them, calling the said Inhabitants Rogues and Cowards, and bidding them come to meet them if they durst, and that they had stayed there three or four dayes for the said Inhabitants; and that if the said Inhabi<g ref="char:EOLhyphen"/>tents came not out the sooner, the said Souldiers would fire the said Inhabitants houses over their heads. And about the number of 10 Red-coats, and the rest Gray-Coats on the Lords day, the 10th of July instant, came from <hi>Barnet</hi> (where they had been drinking in Sermon-time) through <hi>Hadley,</hi> and commend<g ref="char:EOLhyphen"/>ing the Drink they had at several places, and swearing, with some Pistols cocked, and saying, They would make <hi>Barnet</hi> look blew, before they had done with <hi>Enfield</hi> Chace; and when they were gone a little way out of <hi>Hadley,</hi> some of them discharged two Musquets towards the Town, and towards some of the In<g ref="char:EOLhyphen"/>habitants
+<pb n="7" facs="tcp:168660:4"/> walking upon the Common, who heard the Bullets fly close by them.</p>
+            <p>And the 11th day of July, about 17 Foot-Souldiers and their Commander, (being hired for 6 d. the day more then their Ordinary pay) with a resolution, as they tehmselves say, to kill all they met withall, came from the said <hi>Allen</hi>'s house, to the said <hi>Robotham</hi>'s house, half a mile from the sa<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d house where the said <hi>Randall</hi> and one <hi>Royce</hi> and others were with the said Souldiers: And th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n some or one of them bid the said Souldiers shoot three or four of the Inhabitants, and the rest would be quiet from their Claymes: And the said Souldiers according to their encouragement marched against some of the said Inhabitants, being about Five and Twenty in number, and no more at the present, who had with them Cudgels, Mattaxes, Axes, and two Forks, and no other weapons, to know by what Authority the Souldiers came and killed their Cattle upon the<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r Com<g ref="char:EOLhyphen"/>mon: And the said Souldiers put themselves in rank and order, twelve men a breast, armed with Musquets and Swords, Pistols and Forks, against the said In<g ref="char:EOLhyphen"/>habitants, denying to parley with the said Inhabitants; but at their Officer's Command to give fire, presently d<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>scharged their Musquets, being charged with Powder and chawed Bullets and Stones, and shot one man pr<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>sently dead upon the place, and hurt and wounded divers others: Whereat the said Inhabitants taking courage, rounded the said Souldiers, and took Ten of them, but killed none, and brought them before Mr. <hi>Rich,</hi> a Justice of Peace, who examined them, and, upon their own Confession, and upon the examination of Witnesses, sent the said Souldiers to Newgate, and the rest escaped: And one of the said Inhabitants of <hi>Enfield</hi> is since dead, who was shot in the Legg with a poysoned Bullet, and many more of the said Inhabitants of <hi>Enfield</hi> are much wounded with the Chawed Bullets, insomuch, that it is believed divers other of the said Inhabitants will dye of their wounds. And the said Souldiers upon their exa<g ref="char:EOLhyphen"/>mination did confesse they were hired for six pence a day more then their or<g ref="char:EOLhyphen"/>dinary pay, and that they came without any Authority from their cheif Com<g ref="char:EOLhyphen"/>manders, of whose Confession and Examination of Witnesses therein Mr. <hi>Rich</hi> can give a more cettain Relation. And upon the Lord's day last the said <hi>Y<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r<g ref="char:EOLhyphen"/>by,</hi> with others of his Confederrtes, after the Order of Parliament read in the Churches, beat and wounded some of the said Inhabitants of <hi>Edmonton,</hi> and killed a Mare in the said Chace. At the insolencies of which Souldiers and Purchasers of <hi>Enfield</hi>-Chace without Title, the Country stands amazed; since which horrid Murders and barbarous Actions committed by the said Souldi<g ref="char:EOLhyphen"/>ers and their Abettors, some Person to colour their odious and wicked Crimes with a seeming Cloak of truth, hath taken the boldnesse to print a false report against the said Inhabitants: And if these barbarous and bloody deeds of the Souldiers against their Pay-masters, be suffered to go unpunished, Who shall live safe? Who shall know what is their own, and who can be encouraged to maintain Souldiers any longer? who kill and murder, and take the Inheritance themselves. All which C<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uelties, Munders, and Misdemeanours, are commit<g ref="char:EOLhyphen"/>ted by the said Foot-Souldiers above-mentioned, by the encouragement of the said Purchasors, contrary to the intention of the chief Officer and Souldiers o<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the Army, as it appears by their honest and civill carriage towards the said In<g ref="char:EOLhyphen"/>habitants of the said Parish<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s. And whereas it hath been very falsely alledged by the Purchasors, that th<gap reason="illegible" resp="#keyers" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> were 500 men of the said Inhabitants in Arms
+<pb n="8" facs="tcp:168660:5"/> against the Parliament and Army, there was not one man in Arms, nor was there, neither is there, any intention to put any man in Arms against the said Parliament and Army; but the said Inhabitants of the said several Parishes have been, and still are obedient to the Government of the Commonwealth.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
